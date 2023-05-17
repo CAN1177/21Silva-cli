@@ -1,6 +1,6 @@
 {
-  "name": "21Silva-cli",
-  "version": "1.0.0",
+  "name": "21silva",
+  "version": "1.0.1",
   "description": "自定义脚手架",
   "main": "index.js",
   "dependencies": {
