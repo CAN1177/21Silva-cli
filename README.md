@@ -20,4 +20,4 @@
 
 ## 安装步骤
 
-> `npm install  self_cl`
+> `npm install 21silva`
